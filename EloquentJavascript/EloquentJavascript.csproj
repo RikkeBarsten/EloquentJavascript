@@ -79,7 +79,7 @@
     <Content Include="code\jacques_journal.js" />
     <Content Include="code\load.js" />
     <Content Include="index.html" />
-    <Content Include="ObjectsExcersizes.js" />
+    <Content Include="Ch04Ex.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
